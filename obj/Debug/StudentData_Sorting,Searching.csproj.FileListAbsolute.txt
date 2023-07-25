@@ -1,0 +1,8 @@
+C:\DAY 12\StudentData_Sorting,Searching\StudentData_Sorting,Searching\bin\Debug\StudentData_Sorting,Searching.exe.config
+C:\DAY 12\StudentData_Sorting,Searching\StudentData_Sorting,Searching\bin\Debug\StudentData_Sorting,Searching.exe
+C:\DAY 12\StudentData_Sorting,Searching\StudentData_Sorting,Searching\bin\Debug\StudentData_Sorting,Searching.pdb
+C:\DAY 12\StudentData_Sorting,Searching\StudentData_Sorting,Searching\obj\Debug\StudentData_Sorting,Searching.csproj.AssemblyReference.cache
+C:\DAY 12\StudentData_Sorting,Searching\StudentData_Sorting,Searching\obj\Debug\StudentData_Sorting,Searching.csproj.SuggestedBindingRedirects.cache
+C:\DAY 12\StudentData_Sorting,Searching\StudentData_Sorting,Searching\obj\Debug\StudentData_Sorting,Searching.csproj.CoreCompileInputs.cache
+C:\DAY 12\StudentData_Sorting,Searching\StudentData_Sorting,Searching\obj\Debug\StudentData_Sorting,Searching.exe
+C:\DAY 12\StudentData_Sorting,Searching\StudentData_Sorting,Searching\obj\Debug\StudentData_Sorting,Searching.pdb
